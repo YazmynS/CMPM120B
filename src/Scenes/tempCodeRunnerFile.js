@@ -1,0 +1,1 @@
+  let my = this.my;   // create an alias to this.my for readability
